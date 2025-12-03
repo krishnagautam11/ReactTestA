@@ -1,4 +1,26 @@
 { "cards" = [{
+    {   "id" : 1,
+        "tagName" : "blockchain",
+        "image": "card1.jpg",
+        "title" : "Nichole Becker & Daryl Wehner",
+        "description" : "Understanding the power of bitcon and blockchain"
+    },
+
+    {
+        "id" : 2,
+        "tagName" : "blockchain",
+        "image": "card1.jpg",
+        "title" : "Nichole Becker & Daryl Wehner",
+        "description" : "Understanding the power of bitcon and blockchain"
+    },
+
+    {   "id" : 3,
+        "tagName" : "blockchain",
+        "image": "card1.jpg",
+        "title" : "Nichole Becker & Daryl Wehner",
+        "description" : "Understanding the power of bitcon and blockchain"
+    },
+
     "card1":{
         "tagName" : "blockchain",
         "image": "card1.jpg",
@@ -6,35 +28,15 @@
         "description" : "Understanding the power of bitcon and blockchain"
     },
 
-    "card2":{
+    {
+        "id" : 4,
         "tagName" : "blockchain",
         "image": "card1.jpg",
         "title" : "Nichole Becker & Daryl Wehner",
         "description" : "Understanding the power of bitcon and blockchain"
     },
 
-    "card3":{
-        "tagName" : "blockchain",
-        "image": "card1.jpg",
-        "title" : "Nichole Becker & Daryl Wehner",
-        "description" : "Understanding the power of bitcon and blockchain"
-    },
-
-    "card1":{
-        "tagName" : "blockchain",
-        "image": "card1.jpg",
-        "title" : "Nichole Becker & Daryl Wehner",
-        "description" : "Understanding the power of bitcon and blockchain"
-    },
-
-    "card4":{
-        "tagName" : "blockchain",
-        "image": "card1.jpg",
-        "title" : "Nichole Becker & Daryl Wehner",
-        "description" : "Understanding the power of bitcon and blockchain"
-    },
-
-    "card5":{
+    {   "id" : 5,
         "tagName" : "blockchain",
         "image": "card1.jpg",
         "title" : "Nichole Becker & Daryl Wehner",
