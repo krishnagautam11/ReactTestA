@@ -1,38 +1,68 @@
-*{
-    margin:0;
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-:root{
+:root {
     --white: #ffffff;
     --black: #000000;
     --gray: #2b2a2a;
     --pink: #d19bbf;
-    --pink: #ca5ca5;
+    --darkPink: #ca5ca5;
+    --lightPink:#ff84e8;
     --blue: #252652;
+    --lightBlue: #6363a5;
+    --darkBlue: rgb(12, 12, 31);
     --yellow: #ebee36;
-    
+    --orange:#d39011;
+
 }
 
-.cards-h2{
-    font-size: 20px;
-    font-weight: 800;
+.custom-container {
+    max-width: 300px;
+    /* margin: 0 auto; */
+    margin: 220px auto 80px auto;
+    padding: 0 12px;
 }
 
-.subtitle-p{
-    font-size: 16px;
-    font-weight: 400;
+body {
+    background-color: var(--darkBlue);
+    color: var(--white);
+    font-family: "Inter", sans-serif;
 }
 
-.tag-span{
+.cards-h2 {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.subtitle-p {
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 4px;
+}
+
+.tag-span {
+    position: absolute;
     font-size: 14px;
     background-color: var(--black);
-    border-radius: 20px;
+    border-radius: 14px;
+    padding: 6px 10px;
+    top: 12px;
+    left: 8px;
 }
 
-.cards-p{
+.cards-p {
     font-size: 22px;
     font-weight: 400;
 }
 
+ul li {
+    list-style: none;
+    margin-top: -51px;
+    transition: all 0.7s ease;
+    cursor: pointer;
+}
