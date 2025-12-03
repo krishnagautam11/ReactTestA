@@ -21,13 +21,6 @@
         "description" : "Understanding the power of bitcon and blockchain"
     },
 
-    "card1":{
-        "tagName" : "blockchain",
-        "image": "card1.jpg",
-        "title" : "Nichole Becker & Daryl Wehner",
-        "description" : "Understanding the power of bitcon and blockchain"
-    },
-
     {
         "id" : 4,
         "tagName" : "blockchain",
