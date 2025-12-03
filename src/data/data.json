@@ -10,31 +10,31 @@
             },
             {
                 "id": 2,
-                "tagName": "blockchain",
-                "image": "card1.jpg",
-                "title": "Nichole Becker & Daryl Wehner",
-                "description": "Understanding the power of bitcon and blockchain"
+                "tagName": "design",
+                "image": "card2.jpg",
+                "title": "Daryl Wehner",
+                "description": "The color of cherry blossoms as a symbol of branding"
             },
             {
                 "id": 3,
-                "tagName": "blockchain",
-                "image": "card1.jpg",
-                "title": "Nichole Becker & Daryl Wehner",
-                "description": "Understanding the power of bitcon and blockchain"
+                "tagName": "inspiration",
+                "image": "card3.jpg",
+                "title": "Brenda Reichel",
+                "description": "Comfort and simplicity are two keys"
             },
             {
                 "id": 4,
-                "tagName": "blockchain",
-                "image": "card1.jpg",
-                "title": "Nichole Becker & Daryl Wehner",
-                "description": "Understanding the power of bitcon and blockchain"
+                "tagName": "design",
+                "image": "card4.jpg",
+                "title": "Damian Erdman",
+                "description": "Beung unique is better than being perfect"
             },
             {
                 "id": 5,
-                "tagName": "blockchain",
-                "image": "card1.jpg",
-                "title": "Nichole Becker & Daryl Wehner",
-                "description": "Understanding the power of bitcon and blockchain"
+                "tagName": "design",
+                "image": "card5.jpg",
+                "title": "Breana Flatley",
+                "description": "Problems are not stop signs, they are guidelines"
             }
         
     ]
