@@ -1,10 +1,5 @@
 {
     "cards" : [
-<<<<<<< HEAD
-        
-=======
-    
->>>>>>> 0fbe0b5f69464702f34f8f5a18d73dc9b51fc70a
             {
                 "id": 1,
                 "tagName": "blockchain",
@@ -42,8 +37,4 @@
             }
         
     ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0fbe0b5f69464702f34f8f5a18d73dc9b51fc70a
