@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --white: #ffffff;
+    --black: #000000;
+    --gray: #2b2a2a;
+    --pink: #d19bbf;
+    --pink: #ca5ca5;
+    --blue: #252652;
+    --yellow: #ebee36;
+    
+}
+
+.cards-h2{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.subtitle-p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.tag-span{
+    font-size: 14px;
+    background-color: var(--black);
+    border-radius: 20px;
+}
+
+.cards-p{
+    font-size: 22px;
+    font-weight: 400;
+}
+
